@@ -1,0 +1,19 @@
+/* Add Status Button */
+{
+	"name": "test",
+	"description": "A Github Dark Theme for Enmity",
+	"version": "2.0",
+	"authors": [{ "name": "lsplash", "id": "178394162381455360" }],
+	"spec": 2,
+	"background": {
+		"blur": 0,
+		"url": "https://syndishanx.github.io/Discord-Dark/Enmity/Background.png",
+		"alpha": 1.0
+	}
+.status-3tYAfN {
+    background-image: url('https://cdn.discordapp.com/attachments/1185306210254213172/1244043715148906506/1b44f4b1.png?ex=6653ad7e&is=66525bfe&hm=79ff7ac2e4159e8aa34291d5fb61d02c231d688104f79ff8765005b838e67bb1&');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* You might need to adjust the class names if Discord's structure has changed */
