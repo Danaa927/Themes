@@ -1,19 +1,39 @@
-/* Add Status Button */
+
 {
-	"name": "test",
+	"name": "testDark",
 	"description": "A Github Dark Theme for Enmity",
 	"version": "2.0",
-	"authors": [{ "name": "lsplash", "id": "178394162381455360" }],
+	"authors": [{ "name": "SyndiShanX", "id": "178394162381455360" }],
 	"spec": 2,
 	"background": {
 		"blur": 0,
 		"url": "https://syndishanx.github.io/Discord-Dark/Enmity/Background.png",
 		"alpha": 1.0
+	},
+	"semanticColors": {
+		"BACKGROUND_PRIMARY": [ "#1A1A1A", "#1A1A1A" ],
+		"BACKGROUND_SECONDARY": [ "#0D0D0D", "#0D0D0D" ],
+		"HEADER_PRIMARY": [ "#FFFFFF", "#FFFFFF" ],
+		"INTERACTIVE_ACTIVE": [ "#FFFFFF", "#FFFFFF" ],
+		"INTERACTIVE_NORMAL": [ "#C8C8C8", "#C8C8C8" ],
+		"KEYBOARD": [ "#0D0D0D", "#0D0D0D" ],
+		"TEXT_MUTED": [ "#FFFFFF", "#FFFFFF" ],
+		"TEXT_NORMAL": [ "#FFFFFF", "#FFFFFF" ]
+	},
+	"rawColors": {
+		"PRIMARY_600": "#00B344",
+		"PRIMARY_660": "#3A496B",
+		"BRAND_360": "#3A496B",
+		"BRAND_500": "#3A496B",
+		"BRAND_560": "#3A496B",
+		"PLUM_6": "#FFFFFF",
+		"PLUM_9": "#949BA4",
+		"PLUM_10": "#8D919C",
+		"PLUM_16": "#4F545C",
+		"PLUM_17": "#1A1A1A",
+		"PLUM_18": "#1A1A1A",
+		"PLUM_20": "#1A1A1A",
+		"PLUM_22": "#1A1A1A",
+		"PLUM_24": "#1A1A1A"
 	}
-.status-3tYAfN {
-    background-image: url('https://cdn.discordapp.com/attachments/1185306210254213172/1244043715148906506/1b44f4b1.png?ex=6653ad7e&is=66525bfe&hm=79ff7ac2e4159e8aa34291d5fb61d02c231d688104f79ff8765005b838e67bb1&');
-    background-size: cover;
-    background-repeat: no-repeat;
 }
-
-/* You might need to adjust the class names if Discord's structure has changed */
