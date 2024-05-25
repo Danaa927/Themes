@@ -18,11 +18,11 @@
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#FFFFFF",
-      "#FFFFFF"
+      "#0028fc",
+      "#0028fc"
     ],
     "TEXT_MUTED": [
-      "#9279BA",
+      "#a72121",
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
